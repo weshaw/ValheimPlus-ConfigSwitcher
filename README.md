@@ -22,5 +22,3 @@ Run the ConfigSwitcher.exe to start selecting configs.
 
 ![ConfigSwitcher](./App.png)
 ![Files Renamed](./ConfigFiles.png)
-
-[Download](./Release/ConfigSwitcher.zip)
