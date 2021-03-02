@@ -1,0 +1,23 @@
+﻿<Window x:Class="ConfigSwitcher.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ConfigSwitcher"
+        mc:Ignorable="d"
+        Title="Valheim Plus Config Switcher" Height="137" Width="306">
+    <Grid Margin="0,0,0,1">
+        <ComboBox x:Name="configsComboBox" 
+                  Margin="10,44,10,0" 
+                  VerticalAlignment="Top" 
+                  SelectionChanged="ChangeConfig"
+                  />
+        <TextBlock HorizontalAlignment="Left" 
+                   Margin="21,19,0,0" 
+                   Text="Valheim Plus: Switch Configs " 
+                   TextWrapping="Wrap" 
+                   VerticalAlignment="Top" 
+                   Width="221"/>
+
+    </Grid>
+</Window>
