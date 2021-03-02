@@ -1,5 +1,7 @@
 # ValheimPlus-ConfigSwitcher
 
+## [Download ValheimPlus-ConfigSwitcher](./Release/ConfigSwitcher.zip)
+
 Allows you to change between multiple configurations of Valheim Plus with a dropdown by naming your files as follows.
 
 ```
@@ -21,4 +23,3 @@ Run the ConfigSwitcher.exe to start selecting configs.
 ![ConfigSwitcher](./App.png)
 ![Files Renamed](./ConfigFiles.png)
 
-[Download](./Release/ConfigSwitcher.zip)
